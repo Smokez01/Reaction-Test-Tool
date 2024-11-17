@@ -1,4 +1,4 @@
-# Reaction Test Tool
+# Reaction Test Tool (Python)
 
 ![Clean & Simple Design](images/reaction_test_tool.png)
 

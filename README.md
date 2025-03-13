@@ -2,9 +2,6 @@
 
 ![Clean & Simple Design](images/reaction_test_tool.png)
 
-[![license](https://img.shields.io/github/license/Smokez01/Economy-Discord-Bot-Python?style=flat-square)](https://github.com/Smokez01/Economy-Discord-Bot-Python/blob/main/LICENSE) [![contributors](https://img.shields.io/github/contributors/Smokez01/Economy-Discord-Bot-Python?style=flat-square&label=Contributors&color=red)](https://github.com/Smokez01/Economy-Discord-Bot-Python/graphs/contributors) [![commit activity (Last Month)](https://img.shields.io/github/commit-activity/m/Smokez01/Economy-Discord-Bot-Python/main?style=flat-square&label=Commits)](https://github.com/Smokez01/Economy-Discord-Bot-Python/commits/main)
-
-
 ## Getting Started
 
 A very simple program, where you can test your reaction speed.

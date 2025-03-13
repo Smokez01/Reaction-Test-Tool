@@ -1,4 +1,4 @@
-# Reaction Test Tool
+# Reaction test tool
 
 ![Clean & Simple Design](images/reaction_test_tool.png)
 
